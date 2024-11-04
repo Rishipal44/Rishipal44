@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishi Pal
 - 👀 I’m interested in software development and web development
-- 🌱 I’m currently learning front-end development
+- 🌱 I have completed my Php full stack developer certification.
 - 📫 How to reach me risikumarxyx@gmail.com
 - 😄 Pronouns: Him
 
