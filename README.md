@@ -2,6 +2,7 @@
 - 👀 I’m interested in software development and web development
 - 🌱 I have completed my Php full stack developer certification.
 - 📫 How to reach me risikumarxyx@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/rishi-kumar-740224238
 - 😄 Pronouns: Him
 
 <!---
